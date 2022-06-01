@@ -64,9 +64,10 @@ OTOMASYONUMUZU MOBILE UYARLAMAK
 ![see](https://i.hizliresim.com/p89hfeg.)
 ## (Contributors) Katkıda Bulunanlar (TUNEX)
 
+![see](https://i.hizliresim.com/gph08jn.png)
+
 ![see](https://i.hizliresim.com/l802xe8.png)
 
-![see](https://i.hizliresim.com/77jf81j.png)
 
 ## ✨ Contributors (Katkıda Bulunanlar #TUNEX)
 <a href="https://github.com/yekaranfil/OBIS-Konya-Hackathon/graphs/contributors">
