@@ -67,7 +67,9 @@ OTOMASYONUMUZU MOBILE UYARLAMAK
 ![see](https://i.hizliresim.com/l802xe8.png)
 
 
-
+<a href="https://github.com/yekaranfil/OBIS-Konya-Hackathon/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=yekaranfil/OBIS-Konya-Hackathon" />
+</a>
 
 
 
