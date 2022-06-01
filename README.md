@@ -12,7 +12,7 @@ Konya Akıllı Şehirler Hackathonu TUNEX takımı Akıllı Otopark Bilgi İşle
       zamanı harcamak gibi önemli bir problem
       oluşturmaktadır.
 - [x] Park yeri bulsak bile oradan ayrılacağımızda park
-      görevlisini beklemek ve orada ödeme yapmak zorundayız
+      görevlisini beklemek ve orada ödeme yapmak zorundayız.
 - [x] Bu tarz problemler projemizin ortaya çıkışını oluşturmaktadır.
 
 ## 🚧 Hedef Kitlemiz
