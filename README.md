@@ -43,7 +43,7 @@ OTOMASYONUMUZU MOBILE UYARLAMAK
         olmakla beraber önümüzdeki süreçte "Konya" uygulamasına entegre
         edilebilir.
 
-- [x] • AKILLI OTOPARK REZERVE SISTEMI
+- [x] • AKILLI OTOPARK EZERVE SISTEMI
         Mobil uygulamamız üzerinden otopark seçerek aracınız için yer
         rezerve edebileceksiniz.
 
