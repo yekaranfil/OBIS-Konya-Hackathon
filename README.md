@@ -1,6 +1,9 @@
 # OBIS-Konya-Hackathon
 Konya Akıllı Şehirler Hackathonu TUNEX takımı Akıllı Otopark Bilgi İşlem Sistemi Projesi
 
+## 🏴 By TuneX 
+![see](https://i.hizliresim.com/93r66og.png)
+
 ## 📑 Proje Amacı
 - [x] Konya gibi bir şehirde trafik büyük bir problem haline
       gelmekte ve bu problem, yanında park yeri bulamama    
@@ -48,8 +51,23 @@ OTOMASYONUMUZU MOBILE UYARLAMAK
         Personelsiz otopark anlayışına geçilerek HGS sistemine benzer bir
         kart/barkod sistemine geçiş yapılabilir.
 
+## 📑 • Ürün Arayüzümüz & Çalışma Şekli •
+![see](https://i.hizliresim.com/3aiwcz6.png)
 
-
+## Giriş Ekranı
 ![see](https://i.hizliresim.com/7mttjil.png)
+## Otopark Durumları
+![see](https://i.hizliresim.com/1xopxi9.)
+## Giriş Çıkış Kısmı
+![see](https://i.hizliresim.com/2dypza3.)
+## Ödeme Kısmı
+![see](https://i.hizliresim.com/p89hfeg.)
+## (Contributors) Katkıda Bulunanlar (TUNEX)
+
+![see](https://i.hizliresim.com/l802xe8.png)
+
+
+
+
 
 
