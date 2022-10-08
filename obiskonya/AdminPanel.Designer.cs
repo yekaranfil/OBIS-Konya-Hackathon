@@ -40,8 +40,6 @@
             this.cikissaatbuton = new Guna.UI2.WinForms.Guna2GradientButton();
             this.girissaatbuton = new Guna.UI2.WinForms.Guna2GradientButton();
             this.plakabox = new Guna.UI2.WinForms.Guna2TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.panel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,8 +52,6 @@
             this.panel.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(210)))), ((int)(((byte)(4)))));
             this.panel.BorderRadius = 5;
             this.panel.BorderThickness = 2;
-            this.panel.Controls.Add(this.label6);
-            this.panel.Controls.Add(this.label3);
             this.panel.Controls.Add(this.ilcebox);
             this.panel.Controls.Add(this.otoparkbox);
             this.panel.Controls.Add(this.label2);
@@ -115,7 +111,7 @@
             this.otoparkbox.HoverState.Parent = this.otoparkbox;
             this.otoparkbox.ItemHeight = 30;
             this.otoparkbox.ItemsAppearance.Parent = this.otoparkbox;
-            this.otoparkbox.Location = new System.Drawing.Point(12, 106);
+            this.otoparkbox.Location = new System.Drawing.Point(12, 96);
             this.otoparkbox.Name = "otoparkbox";
             this.otoparkbox.ShadowDecoration.Parent = this.otoparkbox;
             this.otoparkbox.Size = new System.Drawing.Size(213, 36);
@@ -128,7 +124,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label2.Location = new System.Drawing.Point(320, 299);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(109, 25);
+            this.label2.Size = new System.Drawing.Size(121, 25);
             this.label2.TabIndex = 28;
             this.label2.Text = "Kalınan Süre";
             // 
@@ -139,7 +135,7 @@
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Location = new System.Drawing.Point(609, 299);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 25);
+            this.label1.Size = new System.Drawing.Size(59, 25);
             this.label1.TabIndex = 27;
             this.label1.Text = "Ücret";
             // 
@@ -150,7 +146,7 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label5.Location = new System.Drawing.Point(609, 339);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(54, 25);
+            this.label5.Size = new System.Drawing.Size(59, 25);
             this.label5.TabIndex = 26;
             this.label5.Text = "Ücret";
             this.label5.Visible = false;
@@ -162,7 +158,7 @@
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label4.Location = new System.Drawing.Point(321, 330);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(109, 25);
+            this.label4.Size = new System.Drawing.Size(121, 25);
             this.label4.TabIndex = 25;
             this.label4.Text = "Kalınan Süre";
             this.label4.Visible = false;
@@ -237,7 +233,7 @@
             this.plakabox.IconLeftSize = new System.Drawing.Size(30, 20);
             this.plakabox.IconRightSize = new System.Drawing.Size(35, 20);
             this.plakabox.Location = new System.Drawing.Point(370, 121);
-            this.plakabox.Margin = new System.Windows.Forms.Padding(4);
+            this.plakabox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.plakabox.Name = "plakabox";
             this.plakabox.PasswordChar = '\0';
             this.plakabox.PlaceholderText = "";
@@ -248,28 +244,6 @@
             this.plakabox.TabIndex = 19;
             this.plakabox.TextOffset = new System.Drawing.Point(0, -5);
             this.plakabox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.plakabox_KeyPress);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Exo 2 Medium", 12.25F, System.Drawing.FontStyle.Bold);
-            this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(10, 9);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(39, 25);
-            this.label3.TabIndex = 31;
-            this.label3.Text = "İlçe";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Exo 2 Medium", 12.25F, System.Drawing.FontStyle.Bold);
-            this.label6.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label6.Location = new System.Drawing.Point(7, 76);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(82, 25);
-            this.label6.TabIndex = 32;
-            this.label6.Text = "Otorpark";
             // 
             // AdminPanel
             // 
@@ -300,7 +274,5 @@
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2ComboBox ilcebox;
         private Guna.UI2.WinForms.Guna2ComboBox otoparkbox;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label3;
     }
 }
